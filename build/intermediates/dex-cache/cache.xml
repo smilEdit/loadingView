@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_27352cf9105e3811d43b3650c8a9fa40e994f9a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="494a2c3aed79868a3458fbb4f29d12829285eef7">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f74d7edbe49302a2b724cd97b5da6baf540f1ecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_10643d4bc9cd75eb7c45212aba47d99fa3b2e0b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_ca63432cb31c2880bad5483585873bd711775bf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_1e65f0efa84e2e21e46528e8d5237505f02f1361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_e84bb4a1e62cf5c3f4ad92115fcdffc989efcb11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_d2c63affa12862c4c903ee2b0cfb8f87cfc67cab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d4f6c08b11568a31118501099791e122531e9920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_8f5b9adafa173d9c5aa5d27125f3fc7abf89c89d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74f4543e12e24a7d489be7b083764d6d1e5cc343">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ceefee57dae31d55c3bf198f7df2422b0d4f8046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_bc94a1447cc73a5a43d5ff89ec1d809769ffeadf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglf/LoadingView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/zhanglf/LoadingView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_a40ab76560b02bd519d6f285f3816340cc810971/classes.dex" />
+    </item>
+
+</items>
